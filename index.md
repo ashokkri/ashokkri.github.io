@@ -60,5 +60,4 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
 ### Ph.D. Thesis
 
    - Distributed Control of Multihop Wireless Networks with Quality-of-Service  
-   Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)   
-   Department of Electrical Communication Engineering, Indian Institute of Science (IISc), Bangalore.
+   Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)  
