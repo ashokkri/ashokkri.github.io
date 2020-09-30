@@ -43,7 +43,7 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
    
 - <small>Providing Quality-of-Service in Multihop Wireless Networks: Diffusion Approximation  
    Ashok Krishnan K.S. and V. Sharma  
-   proceedings of the *International Conference on Advances in Applied Probability and Stochastic Processes (ICAAP&SP), 2019*
+   proceedings of the *International Conference on Advances in Applied Probability and Stochastic Processes (ICAAP&SP), 2019* [[springerlink]](https://www.springer.com/gp/book/9789811559501)
    
 - <small>Distributed control and quality-of-service in multihop wireless networks  
    Ashok Krishnan K.S. and V. Sharma  
