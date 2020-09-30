@@ -12,7 +12,7 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
 
 ### Research Interests
 
- My research has been primarily in the area of Wireless Networks and Communications. This involves techniques from applied Probability, Queueing theory, Control theory and Optimization. My work includes  
+ My research has primarily been in the area of Wireless Networks and Communications. This involves techniques from applied Probability, Queueing theory, Control theory and Optimization. My work includes  
  
 - Control and Optimization of wireless networks
 - Delivering Quality-of-Service in wireless systems
