@@ -123,8 +123,8 @@ navigation_header:
   url: /
 #- title: Links
 #  url: /links/
-- title: Links
-  url: /links/
+#- title: Links
+ # url: /links/
 #- title: Categories
 #  url: /categories/
 #- title: Search
