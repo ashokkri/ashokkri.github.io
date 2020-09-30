@@ -19,7 +19,7 @@ Ph.D. from the Indian Institute of Science (IISc), Bangalore.
 
 ## Publications
 
-- Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
+- <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
    Ashok Krishnan K.S. and V. Sharma     
    to appear in *IEEE Transactions on Wireless Communications* [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)
    
@@ -53,7 +53,7 @@ Ph.D. from the Indian Institute of Science (IISc), Bangalore.
    
 - A Distributed Algorithm for Quality-of-Service Provisioning in Multihop Networks  
    Ashok Krishnan K.S. and V. Sharma  
-   proceedings of the *Twenty- Third National Conference on Communications (NCC), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8077094)
+   proceedings of the *Twenty- Third National Conference on Communications (NCC), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8077094)</small>
 
 ## Ph.D. Thesis
 
