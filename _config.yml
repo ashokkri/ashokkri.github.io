@@ -65,9 +65,9 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Links" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Links
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -121,12 +121,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+#- title: Links
+#  url: /links/
 - title: Links
   url: /links/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+#- title: Categories
+#  url: /categories/
 #- title: Search
 #  url: /search/
 
