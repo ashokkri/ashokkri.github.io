@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
-
+## About
 
 Ph.D. from the Indian Institute of Science (IISc), Bangalore.
 
