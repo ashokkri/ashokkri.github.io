@@ -7,25 +7,57 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-PhD from
+## About
 
+Ph.D. from the Indian Institute of Science (IISc), Bangalore.
 
+## Research Interests
 
-## Features
+- Wireless Networks
+- Wireless Communications
+- Queueing Theory
+- Optimization and Control
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+## Publications
 
+- Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
+   Ashok Krishnan K.S. and V. Sharma   
+   to appear in *IEEE Transactions on Wireless Communications* [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)
+   
+- Accelerated Detection Schemes for PSS in 5G-NR  
+   S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
+   proceedings of the *IEEE 3rd 5G World Forum, 2020*
+
+- On the Improved Memory Utilization in HARQ Pooling  
+   S.V.Kumar, Ashok Krishnan K.S., R. Gundeti and K.G. Shenoy  
+   proceedings of the *International conference on Signal Processing and Communications (SPCOM), 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9179580)
+
+- Optimal Pricing in Finite Server Systems  
+   Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag  
+   proceedings of the *18th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9155315)
+
+- Minimizing Age of Information in a Multihop Wireless Network  
+   Ashok Krishnan K.S. and V. Sharma  
+   proceedings of the *IEEE International Conference on Communications (ICC), 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9148762/)
+   
+- Providing Quality-of-Service in Multihop Wireless Networks: Diffusion Approximation  
+   Ashok Krishnan K.S. and V. Sharma  
+   proceedings of the *International Conference on Advances in Applied Probability and Stochastic Processes (ICAAP&SP), 2019*
+   
+- Distributed control and quality-of-service in multihop wireless networks  
+   Ashok Krishnan K.S. and V. Sharma  
+   proceedings of the IEEE I*nternational Conference on Communications (ICC), 2018* [[ieeexplore]](https://ieeexplore.ieee.org/document/8422304)
+   
+- A distributed scheduling algorithm to provide quality-of-service in multihop wireless networks  
+   Ashok Krishnan K.S. and V. Sharma  
+   Proceedings of the *IEEE Global Communication Conference (GLOBECOM), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8254642/)
+   
+- A Distributed Algorithm for Quality-of-Service Provisioning in Multihop Networks  
+   Ashok Krishnan K.S. and V. Sharma  
+   proceedings of the *Twenty- Third National Conference on Communications (NCC), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8077094)
+
+## Ph.D. Thesis
+
+   - Distributed Control of Multihop Wireless Networks with Quality-of-Service  
+   Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)   
+   Department of Electrical Communication Engineering, Indian Institute of Science (IISc), Bangalore.
