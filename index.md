@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-Ph.D. from the Indian Institute of Science (IISc), Bangalore.
+I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020.
 
 ### Research Interests
 
