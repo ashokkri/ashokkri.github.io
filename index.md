@@ -20,7 +20,7 @@ Ph.D. from the Indian Institute of Science (IISc), Bangalore.
 ## Publications
 
 - Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
-   Ashok Krishnan K.S. and V. Sharma   
+   <small>Ashok Krishnan K.S. and V. Sharma</small>   
    to appear in *IEEE Transactions on Wireless Communications* [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)
    
 - Accelerated Detection Schemes for PSS in 5G-NR  
