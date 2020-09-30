@@ -12,11 +12,13 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
 
 ### Research Interests
 
-- Wireless Networks
-- Wireless Communications
-- Queueing Theory
-- Optimization and Control
-
+ My research has been primarily in the area of Wireless Networks and Communications. This involves techniques from applied Probability, Queueing theory, Control theory and Optimization. My work includes  
+ 
+- Control and Optimization of wireless networks
+- Delivering Quality-of-Service in wireless systems
+- Distributed optimization in wireless networks
+- Revenue maximization in server farms
+ 
 ### Publications
 
 - <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
