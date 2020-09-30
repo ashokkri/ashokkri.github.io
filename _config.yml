@@ -131,7 +131,7 @@ navigation_header:
 #  url: /search/
 
 navigation_footer:
-- title: Created by Ash
+- title: Adapted from the Alembic theme
 
 #social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
