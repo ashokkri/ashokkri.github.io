@@ -60,5 +60,5 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
 ### Ph.D. Thesis
 
    - <small>Distributed Control of Multihop Wireless Networks with Quality-of-Service [[pdf]](https://ashokkri.github.io/pdfs/thesis_ashok.pdf)
-    Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)  
+       Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)  
    
