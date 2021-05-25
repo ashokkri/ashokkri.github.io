@@ -27,7 +27,7 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
    
 - <small>Accelerated Detection Schemes for PSS in 5G-NR  
    S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
-   *IEEE 3rd 5G World Forum, 2020*
+   *IEEE 3rd 5G World Forum, 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9221156)
 
 - <small>On the Improved Memory Utilization in HARQ Pooling  
    S.V.Kumar, Ashok Krishnan K.S., R. Gundeti and K.G. Shenoy  
