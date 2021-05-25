@@ -23,7 +23,7 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
 
 - <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
    Ashok Krishnan K.S. and V. Sharma     
-   *IEEE Transactions on Wireless Communications* [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[pdf]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
+   *IEEE Transactions on Wireless Communications* [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[preprint]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
    
 - <small>Accelerated Detection Schemes for PSS in 5G-NR  
    S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
