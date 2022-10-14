@@ -61,9 +61,7 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis Méditerranée. I obta
    Ashok Krishnan K.S. and V. Sharma  
    *Twenty- Third National Conference on Communications (NCC), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8077094)</small>
   
-### Preprints
-  - <small>Optimal Pricing in Multi Server Systems  
-  Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag  [[arxiv]](https://arxiv.org/pdf/2105.02002.pdf)
+
 
 ### Ph.D. Thesis
 
