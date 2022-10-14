@@ -21,8 +21,8 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis Méditerranée. I obta
  
 ### Publications
 
-- <small>Optimal Pricing in Multi Server Systems
-  Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag
+- <small>Optimal Pricing in Multi Server Systems    
+  Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag    
   *Performance Evaluation* [[elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0166531621000985)
 
 - <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
