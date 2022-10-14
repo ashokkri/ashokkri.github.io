@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020.
+I am a postdoctoral researcher at Inria, Sophia Antipolis Méditerranée. I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020.
 
 ### Research Interests
 
@@ -20,6 +20,10 @@ I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 20
 - Revenue maximization in server farms
  
 ### Publications
+
+-<small> Optimal Pricing in Multi Server Systems
+  Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag
+  *Performance Evaluation* [[elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0166531621000985)
 
 - <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
    Ashok Krishnan K.S. and V. Sharma     
