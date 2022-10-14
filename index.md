@@ -1,5 +1,5 @@
 ---
-title: About  
+title:   
 feature_text: |
   ## Ashok Krishnan K.S.
   
