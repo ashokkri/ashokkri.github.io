@@ -8,11 +8,11 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. Prior to my current position, I was employed at Qualcomm India Pvt. Ltd., Bangalore.
+I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. 
 
 ### Research Interests
 
- My research has primarily been in the area of Wireless Networks and Communications. This involves techniques from applied Probability, Queueing theory, Control theory and Optimization. My work includes  
+ My research has primarily been in the area of Wireless Networks and Communications. This involves techniques from applied probability, queueing theory, control theory and optimization. My work includes  
  
 - Control and Optimization of wireless networks
 - Delivering Quality-of-Service in wireless systems
