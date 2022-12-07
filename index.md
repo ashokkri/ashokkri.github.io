@@ -19,7 +19,7 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
 - Distributed optimization in wireless networks
 - Revenue maximization in server farms
  
-### Journal Publications
+#### Journal Publications
 
 - <small>Optimal Pricing in Multi Server Systems    
   Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag    
@@ -29,7 +29,7 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
    Ashok Krishnan K.S. and V. Sharma     
    *IEEE Transactions on Wireless Communications*, 2020 [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[preprint]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
   
-### Conference Proceedings
+#### Conference Proceedings
    
 - <small>Accelerated Detection Schemes for PSS in 5G-NR  
    S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
