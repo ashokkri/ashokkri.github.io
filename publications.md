@@ -7,14 +7,53 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-- Minimizing Age in a Multihop Wireless Network  
-  <small>Networks Seminar Series, August 2020  
-  Center for networked Intelligence, IISc [[link]](https://cni.iisc.ac.in/networks-seminar/)
+#### Journal Publications
+
+- <small>Optimal Pricing in Multi Server Systems    
+  Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag    
+  *Performance Evaluation*, 2022 [[elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0166531621000985)
+
+- <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
+   Ashok Krishnan K.S. and V. Sharma     
+   *IEEE Transactions on Wireless Communications*, 2020 [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[preprint]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
   
-- Software Defined Networks  
-  <small>Towards 5G - Technologies and Challenges Workshop, December 2017  
-  Mar Baselios College of Engineering, Trivandrum
+#### Conference Proceedings
+   
+- <small>Accelerated Detection Schemes for PSS in 5G-NR  
+   S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
+   *IEEE 3rd 5G World Forum, 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9221156)
+
+- <small>On the Improved Memory Utilization in HARQ Pooling  
+   S.V.Kumar, Ashok Krishnan K.S., R. Gundeti and K.G. Shenoy  
+   *International conference on Signal Processing and Communications (SPCOM), 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9179580)
+
+- <small>Optimal Pricing in Finite Server Systems  
+   Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag  
+   *18th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9155315)
+
+- <small>Minimizing Age of Information in a Multihop Wireless Network  
+   Ashok Krishnan K.S. and V. Sharma  
+   *IEEE International Conference on Communications (ICC), 2020* [[ieeexplore]](https://ieeexplore.ieee.org/document/9148762/)
+   
+- <small>Providing Quality-of-Service in Multihop Wireless Networks: Diffusion Approximation  
+   Ashok Krishnan K.S. and V. Sharma  
+   *International Conference on Advances in Applied Probability and Stochastic Processes (ICAAP&SP), 2019* [[springerlink]](https://www.springer.com/gp/book/9789811559501)
+   
+- <small>Distributed control and quality-of-service in multihop wireless networks  
+   Ashok Krishnan K.S. and V. Sharma  
+   *IEEE International Conference on Communications (ICC), 2018* [[ieeexplore]](https://ieeexplore.ieee.org/document/8422304)
+   
+- <small>A distributed scheduling algorithm to provide quality-of-service in multihop wireless networks  
+   Ashok Krishnan K.S. and V. Sharma  
+   *IEEE Global Communication Conference (GLOBECOM), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8254642/)
+   
+- <small>A Distributed Algorithm for Quality-of-Service Provisioning in Multihop Networks  
+   Ashok Krishnan K.S. and V. Sharma  
+   *Twenty- Third National Conference on Communications (NCC), 2017* [[ieeexplore]](https://ieeexplore.ieee.org/document/8077094)</small>
   
-- Distributed Control and Quality of Service in Multihop Networks  
-  <small>Students' Seminar Series, June 2017  
-  Dept of ECE, IISc [[link]](https://ece.iisc.ac.in/~myna/seminar/prevtalks.html)
+
+
+#### Ph.D. Thesis
+
+   - <small>Distributed Control of Multihop Wireless Networks with Quality-of-Service [[pdf]](https://ashokkri.github.io/pdfs/thesis_ashok.pdf)  
+       Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)  
