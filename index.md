@@ -65,7 +65,7 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
   
 
 
-### Ph.D. Thesis
+#### Ph.D. Thesis
 
    - <small>Distributed Control of Multihop Wireless Networks with Quality-of-Service [[pdf]](https://ashokkri.github.io/pdfs/thesis_ashok.pdf)  
        Advisor: [Prof. Vinod Sharma](https://ece.iisc.ac.in/~vinod/)  
