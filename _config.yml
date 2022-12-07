@@ -124,7 +124,7 @@ navigation_header:
 - title: Talks
   url: /talks/
 - title: Publications
- # url: /publications/
+  url: /publications/
 #- title: Categories
 #  url: /categories/
 #- title: Search
