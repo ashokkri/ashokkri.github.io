@@ -123,8 +123,8 @@ navigation_header:
   url: /
 - title: Talks
   url: /talks/
-#- title: Links
- # url: /links/
+- title: Publications
+ # url: /publications/
 #- title: Categories
 #  url: /categories/
 #- title: Search
