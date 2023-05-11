@@ -18,6 +18,10 @@ feature_image: "https://picsum.photos/1300/400?image=989"
    *IEEE Transactions on Wireless Communications*, 2020 [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[preprint]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
   
 #### Conference Proceedings
+  
+ - <small>Pricing Models for Digital Renting Platforms  
+   Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman   
+   *27th International Conference on Analytical & Stochastic Modelling Techniques & Applications (ASMTA), 2023* (accepted)
    
 - <small>Accelerated Detection Schemes for PSS in 5G-NR  
    S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
