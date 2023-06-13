@@ -12,9 +12,10 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
 
 #### Research Interests
 
- My research has primarily been in the area of Wireless Networks and Communications. This involves techniques from applied probability, queueing theory, control theory and optimization. My work includes  
+ My research has primarily been in the area of Wireless Networks and Communications. This involves techniques from applied probability, queueing theory, Markov desision processes, control theory, game theory and optimization. My work includes  
 
 - Control and Optimization of wireless networks
 - Delivering Quality-of-Service in wireless systems
 - Distributed optimization in wireless networks
 - Revenue maximization in server farms
+- Pricing in platforms
