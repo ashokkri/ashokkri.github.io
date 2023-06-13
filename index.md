@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. 
+I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. Prior to Inria, I was employed at Qualcomm, India as an engineer in WiFi systems research and development.
 
 #### Research Interests
 
