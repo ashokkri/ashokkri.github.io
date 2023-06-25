@@ -9,6 +9,10 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 #### Journal Publications
 
+- <small>Optimal Pricing in a Single Server System    
+  Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag
+  To appear in *ACM Transactions on Modeling and Performance Evaluation of Computing Systems*
+
 - <small>Optimal Pricing in Multi Server Systems    
   Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag    
   *Performance Evaluation*, 2022 [[elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0166531621000985)
