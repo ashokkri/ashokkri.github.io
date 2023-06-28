@@ -25,7 +25,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   
  - <small>Pricing Models for Digital Renting Platforms  
    Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman   
-   *International Conference on Analytical & Stochastic Modelling Techniques & Applications (ASMTA), 2023* (accepted)
+   *International Conference on Analytical & Stochastic Modelling Techniques & Applications (ASMTA), 2023*
    
 - <small>Accelerated Detection Schemes for PSS in 5G-NR  
    S.V.Kumar, J. Akhtar , Ashok Krishnan K.S. and A.K. Sah   
