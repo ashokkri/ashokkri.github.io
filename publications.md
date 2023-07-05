@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 - <small>Optimal Pricing in a Single Server System    
   Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag     
-  Selected for publication at *ACM Transactions on Modeling and Performance Evaluation of Computing Systems*
+  *ACM Transactions on Modeling and Performance Evaluation of Computing Systems*, 2023 [[acm]](https://dl.acm.org/doi/10.1145/3607252)
 
 - <small>Optimal Pricing in Multi Server Systems    
   Ashok Krishnan K.S., C. Singh, S.T. Maguluri and P. Parag    
