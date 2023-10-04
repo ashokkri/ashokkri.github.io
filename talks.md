@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-- Optimal Pricing in a Single Server System
+- Optimal Pricing in a Single Server System       
   <small>International Teletraffic Congress 35th, October 2023  
   Turin, Italy.
 
