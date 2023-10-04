@@ -7,6 +7,10 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
+- Optimal Pricing in a Single Server System
+  <small>International Teletraffic Congress 35th, October 2023  
+  Turin, Italy.
+
 - Minimizing Age in a Multihop Wireless Network  
   <small>Networks Seminar Series, August 2020  
   Center for networked Intelligence, IISc [[link]](https://cni.iisc.ac.in/networks-seminar/)
