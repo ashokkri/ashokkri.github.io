@@ -20,5 +20,3 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
 - Revenue maximization in server farms
 - Pricing in platforms
 
-
-Contact: [email](mailto:krishashok03@gmail.com) 
