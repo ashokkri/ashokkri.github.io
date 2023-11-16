@@ -21,4 +21,4 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
 - Pricing in platforms
 
 
- {% include button.html text="Contact Me" mailto:coc@electronjs.org color="#0366d6" %} 
+Contact: [email](mailto:krishashok03@gmail.com) 
