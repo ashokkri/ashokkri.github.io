@@ -20,4 +20,5 @@ I am a postdoctoral researcher at Inria, Sophia Antipolis. I obtained my Ph.D. f
 - Revenue maximization in server farms
 - Pricing in platforms
 
-- {% include button.html text="Contact Me" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} 
+
+ {% include button.html text="Contact Me" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} 
