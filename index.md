@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-I am a postdoctoral researcher at Inria, Sophia Antipolis in the team [Neo](https://team.inria.fr/neo/). I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. Prior to Inria, I was employed at Qualcomm, India as an engineer in WiFi systems research and development.
+I am a postdoctoral researcher at Inria, Paris in the team [Argo](https://www.inria.fr/en/argo). I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. Prior to Inria, Paris, I was at Inria, Sophia Antipolis as a postdoctoral researcher.
 
 #### Research Interests
 
