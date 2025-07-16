@@ -22,6 +22,10 @@ feature_image: "https://picsum.photos/1300/400?image=989"
    *IEEE Transactions on Wireless Communications*, 2020 [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[preprint]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
   
 #### Conference Proceedings
+
+- <small>How Irrationality Shapes Nash Equilibria: A Prospect-Theoretic Perspective  
+   Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić  
+   accepted for the *64th IEEE Conference on Decision and Control, 2025* [[preprint]](https://https://hal.science/hal-05036781/)
   
  - <small>Pricing Models for Digital Renting Platforms  
    Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman   
