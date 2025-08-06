@@ -23,9 +23,13 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   
 #### Conference Proceedings
 
+- <small> Achieving a Collective Target Through Incentives  
+   Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić  
+   accepted at the *12th International Conference of Networks, Games, Control and Optimization (NETGCOOP), 2025*
+  
 - <small>How Irrationality Shapes Nash Equilibria: A Prospect-Theoretic Perspective  
    Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić  
-   accepted for presentation at the *64th IEEE Conference on Decision and Control (CDC), 2025* [[preprint]](https://hal.science/hal-05036781/)
+   accepted at the *64th IEEE Conference on Decision and Control (CDC), 2025* [[preprint]](https://hal.science/hal-05036781/)
   
  - <small>Pricing Models for Digital Renting Platforms  
    Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman   
