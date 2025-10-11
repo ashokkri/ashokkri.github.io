@@ -25,7 +25,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 - <small> Achieving a Collective Target Through Incentives  
    Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić  
-   *12th International Conference of Networks, Games, Control and Optimization (NETGCOOP), 2025* 
+   *12th International Conference of Networks, Games, Control and Optimization (NETGCOOP), 2025*  **Best Paper Award**
   
 - <small>How Irrationality Shapes Nash Equilibria: A Prospect-Theoretic Perspective  
    Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić  
