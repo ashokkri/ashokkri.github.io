@@ -19,13 +19,15 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   Turin, Italy
 
 - Minimizing Age in a Multihop Wireless Network  
-  <small>Networks Seminar Series, August 2020  
-  Center for networked Intelligence, IISc [[link]](https://cni.iisc.ac.in/networks-seminar/)
+  <small>[Network Seminar Series](https://cni.iisc.ac.in/seminars/), August 2020  
+  Center for Networked Intelligence, Indian Institute of Science [[link]](https://cni.iisc.ac.in/networks-seminar/)
+  Bangalore, India
   
 - Software Defined Networks  
   <small>Towards 5G - Technologies and Challenges Workshop, December 2017  
-  Mar Baselios College of Engineering, Trivandrum
+  Mar Baselios College of Engineering, Trivandrum, India
   
 - Distributed Control and Quality of Service in Multihop Networks  
   <small>Students' Seminar Series, June 2017  
-  Dept of ECE, IISc [[link]](https://ece.iisc.ac.in/~myna/seminar/prevtalks.html)
+  Dept of Electrical Communication Engineering, Indian Institute of Science [[link]](https://ece.iisc.ac.in/~myna/seminar/prevtalks.html)
+  Bangalore, India
