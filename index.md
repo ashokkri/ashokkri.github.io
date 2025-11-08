@@ -11,11 +11,9 @@ I am a postdoctoral researcher at Inria (Paris) in the team [Argo](https://www.i
 
 #### Research Interests
 
- My research is in the area of network resource allocation and control. This involves techniques from applied probability, queueing theory, Markov desision processes, control theory, game theory and optimization. My work includes  
+ My research is in the areas of control and distributed optimization in wireless networks, queueing systems and energy markets.I use techniques from applied probability, queueing theory, Markov desision processes, control theory, game theory and optimization. My work includes: 
 
-- Multi agent games in markets: Equilibria and Control
-- Revenue maximization in resource allocation
-- Control and Optimization in wireless networks
-- Delivering Quality-of-Service in wireless systems
-- Distributed optimization in wireless networks
+- Equilibria in multi agent geames with irrational agents
+- Revenue maximization in server farms and multi agent games
+- Contro, Distributed Optimization and Quality-of-Service in wireless networks
 
