@@ -6,13 +6,13 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
-- Prospect Theoretic Models in games: Equilibria and Coordination
-  <small> Defi Inria-EDF Seminar, October 2025
-  Paris
+- Prospect Theoretic Models in games: Equilibria and Coordination      
+  <small> Defi Inria-EDF Seminar, October 2025       
+  Paris, France   
 
-- Modelling Equilibria under Irrationality
-  <small> LINCS Annual Worshop, July 2025
-  Paris
+- Modelling Equilibria under Irrationality      
+  <small> LINCS Annual Worshop, July 2025      
+  Paris, France   
 
 - Optimal Pricing in a Single Server System       
   <small>35th International Teletraffic Congress, October 2023  
