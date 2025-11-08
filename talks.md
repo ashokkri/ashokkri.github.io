@@ -20,7 +20,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 - Minimizing Age in a Multihop Wireless Network  
   <small>[Network Seminar Series](https://cni.iisc.ac.in/seminars/), August 2020  
-  Center for Networked Intelligence, Indian Institute of Science [[link]](https://cni.iisc.ac.in/networks-seminar/)
+  Center for Networked Intelligence, Indian Institute of Science [[link]](https://cni.iisc.ac.in/networks-seminar/)     
   Bangalore, India
   
 - Software Defined Networks  
@@ -29,5 +29,5 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   
 - Distributed Control and Quality of Service in Multihop Networks  
   <small>Students' Seminar Series, June 2017  
-  Dept of Electrical Communication Engineering, Indian Institute of Science [[link]](https://ece.iisc.ac.in/~myna/seminar/prevtalks.html)
+  Dept of Electrical Communication Engineering, Indian Institute of Science [[link]](https://ece.iisc.ac.in/~myna/seminar/prevtalks.html)     
   Bangalore, India
