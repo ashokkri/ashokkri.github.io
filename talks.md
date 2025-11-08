@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   Paris, France   
 
 - Modelling Equilibria under Irrationality      
-  <small> LINCS Annual Worshop, July 2025      
+  <small> [[LINCS Annual Worshop]](https://www.lincs.fr/events/lincs-annual-workshop-with-the-scientific-committee/), July 2025      
   Paris, France [[link]](https://www.youtube.com/watch?v=VJNmzgAvMA8)   
 
 - Optimal Pricing in a Single Server System       
