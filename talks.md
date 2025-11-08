@@ -15,7 +15,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   Paris, France [[link]](https://www.youtube.com/watch?v=VJNmzgAvMA8)   
 
 - Optimal Pricing in a Single Server System       
-  <small>35th International Teletraffic Congress, October 2023  
+  <small>[[35th International Teletraffic Congress]](https://itc35.itc-conference.org/invited.html), October 2023  
   Turin, Italy
 
 - Minimizing Age in a Multihop Wireless Network  
