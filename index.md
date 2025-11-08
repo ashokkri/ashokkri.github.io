@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "https://picsum.photos/id/989/1300/400"
 
 ---
-{% include figure.html image="/uploads/copy2.jpg" position="left" width=150 height=150 %}
+{% include figure.html image="/uploads/copy1.jpg" position="left" width=150 height=150 %}
 I am a postdoctoral researcher at Inria (Paris) in the team [Argo](https://www.inria.fr/en/argo). I obtained my Ph.D. from the Indian Institute of Science (IISc), Bangalore in 2020. Prior to Inria (Paris), I was at Inria (Sophia Antipolis) as a postdoctoral researcher in the team [Neo](https://team.inria.fr/neo/).
 
 #### Research Interests
