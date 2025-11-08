@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Ashok Krishnan K.S.
   
-feature_image: "https://picsum.photos/id/420/1300/400?grayscale&blur=2"
+feature_image: "https://picsum.photos/id/989/1300/400"
 
 ---
 {% include figure.html image="/uploads/copy2.jpg" position="left" width=150 height=150 %}
