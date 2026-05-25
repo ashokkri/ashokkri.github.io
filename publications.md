@@ -20,6 +20,15 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 - <small>Multihop Wireless Networks with Quality-of-Service: Fluid and Diffusion Approximations  
    Ashok Krishnan K.S. and V. Sharma     
    *IEEE Transactions on Wireless Communications*, 2020 [[ieeexplore]](https://ieeexplore.ieee.org/document/9184257)[[preprint]](https://ashokkri.github.io/pdfs/MHopWirelessQoS.pdf)
+
+#### Preprints
+
+- <small>Learning Equilibria in Coordination Games via Minorization-Maximization
+  Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić [[arXiv]](https://arxiv.org/abs/2605.13644)
+
+- <small>Pricing for Platforms: Games, Equilibria and Cooperation
+  Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman [[hal]](https://hal.science/hal-04132372/)
+  
   
 #### Conference Proceedings
 
