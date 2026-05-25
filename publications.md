@@ -38,8 +38,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 - <small> Achieving a Collective Target Through Incentives  
    Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić  
-   *12th International Conference of Networks, Games, Control and Optimization (NETGCOOP), 2025*    
-   **Best Paper Award**
+   *12th International Conference of Networks, Games, Control and Optimization (NETGCOOP), 2025*  **Best Paper Award**
   
  - <small>Pricing Models for Digital Renting Platforms  
    Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman   
