@@ -23,10 +23,10 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 #### Preprints
 
-- <small>Learning Equilibria in Coordination Games via Minorization-Maximization
+- <small>Learning Equilibria in Coordination Games via Minorization-Maximization    
   Ashok Krishnan K.S., Hélène Le Cadre and Ana Bušić [[arXiv]](https://arxiv.org/abs/2605.13644)
 
-- <small>Pricing for Platforms: Games, Equilibria and Cooperation
+- <small>Pricing for Platforms: Games, Equilibria and Cooperation    
   Ashok Krishnan K.S., Samir M. Perlaza and Eitan Altman [[hal]](https://hal.science/hal-04132372/)
   
   
