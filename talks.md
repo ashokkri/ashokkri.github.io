@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-- How Irrationality Shapes Nash. Equilibria: A Prospect-Theoretic Perspective
+- How Irrationality Shapes Nash. Equilibria: A Prospect-Theoretic Perspective    
   <small> PGMO Days, November 2025
   Palaiseau, France
   
