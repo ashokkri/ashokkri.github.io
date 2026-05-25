@@ -6,6 +6,11 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
+
+- How Irrationality Shapes Nash. Equilibria: A Prospect-Theoretic Perspective
+ <small> PGMO Days, November 2025
+  Palaiseau, France
+  
 - Prospect Theoretic Models in games: Equilibria and Coordination      
   <small> Defi Inria-EDF Seminar, October 2025       
   Paris, France   
